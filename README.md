@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ho Quoc Thang</h1>
 <h3 align="center">Fresher Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **NextJS, UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://pf-hqthang.vercel.app](https://pf-hqthang.vercel.app)
 
