@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Quoc Thang</h1>
-<h3 align="center">Fresher Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **NextJS, UI/UX**
 
