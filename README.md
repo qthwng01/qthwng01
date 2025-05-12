@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **NextJS, Deep Dive in Frontend**
 
-- 👨‍💻 All of my projects are available at [https://qthwngg.vercel.app](https://qthwngg.vercel.app)
+- 👨‍💻 All of my side projects are available at [https://qthwngg.vercel.app](https://qthwngg.vercel.app)
 
-- 🔥 I always improve my knowledge in **Frontend**
+- 🔥 I always improve my knowledge in **Frontend** becoming to Creative Frontend Developer.
 
 - 📫 How to reach me **qthwng.01@gmail.com**
 
