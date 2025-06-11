@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, Deep Dive in Frontend**
 
-- 👨‍💻 All of my side projects are available at [https://qthwngg.vercel.app](https://qthwngg.netlify.app)
+- 👨‍💻 All of my side projects are available at [https://qthwngg.netlify.app](https://qthwngg.netlify.app)
 
 - 🔥 I always improve my knowledge in **Frontend** becoming to Creative Frontend Developer.
 
